@@ -1,4 +1,4 @@
-Roguelite Dungeon-Slaying Game is a 2D action game that combines procedural gameplay with strategic progression. Inspired by classic roguelite mechanics, the game features a node-based level system that allows for non-linear exploration, branching paths, and replayability. Each node on the map represents a unique challenge — combat encounters, events, shops, or random rewards — making every run feel different from the last.
+Dungeon Gunner is a 2D action game that combines procedural gameplay with strategic progression. Inspired by classic roguelite mechanics, the game features a node-based level system that allows for non-linear exploration, branching paths, and replayability. Each node on the map represents a unique challenge — combat encounters, events, shops, or random rewards — making every run feel different from the last.
 
 The game uses event-driven movement and behavior logic powered by ScriptableObjects, enabling a modular and scalable architecture. This approach makes it easy to design enemies, items, or environmental effects without hardcoding, supporting a highly flexible development workflow.
 
